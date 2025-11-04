@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "tunisia-2",
+      "description": "Tunisia Image 2",
+      "imageUrl": "/images/im2.jpg",
+      "imageHint": "Tunisia Scene 2"
+    },
+    {
+      "id": "tunisia-3",
+      "description": "Tunisia Image 3",
+      "imageUrl": "/images/im3.webp",
+      "imageHint": "Tunisia Scene 3"
+    },
+    {
+      "id": "tunisia-4",
+      "description": "Tunisia Image 4",
+      "imageUrl": "/images/im4.jpg",
+      "imageHint": "Tunisia Scene 4"
+    },
+    {
+      "id": "tunisia-5",
+      "description": "Tunisia Image 5",
+      "imageUrl": "/images/im5.jpg",
+      "imageHint": "Tunisia Scene 5"
+    },
+    {
+      "id": "tunisia-6",
+      "description": "Tunisia Image 6",
+      "imageUrl": "/images/im6.jpg",
+      "imageHint": "Tunisia Scene 6"
+    },
+    {
+      "id": "tunisia-7",
+      "description": "Tunisia Image 7",
+      "imageUrl": "/images/im7.jpg",
+      "imageHint": "Tunisia Scene 7"
+    },
+    {
+      "id": "tunisia-8",
+      "description": "Tunisia Image 8",
+      "imageUrl": "/images/im8.jpg",
+      "imageHint": "Tunisia Scene 8"
+    },
+    {
+      "id": "tunisia-9",
+      "description": "Tunisia Image 9",
+      "imageUrl": "/images/im10.jpg",
+      "imageHint": "Tunisia Scene 9"
+    }
+  ]
+}
